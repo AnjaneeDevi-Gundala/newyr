@@ -8,7 +8,8 @@ body{
 }
 div{
     width: 100%;
-    min-height: 100vh;
+    min-height: 100vh; 
+    display: flex; 
     background-image: radial-gradient(circle at top left,hsl(39, 100%, 50%),black,black,black);
 }
 h1{
