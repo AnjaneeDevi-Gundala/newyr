@@ -23,7 +23,7 @@ h1{
 h1:hover{
     font-size: 120px;
     padding-top: 12%;
-    padding-left: 13.5%;
+    /* padding-left: 13.5%; */
    
 }
 h1:hover #happy{
